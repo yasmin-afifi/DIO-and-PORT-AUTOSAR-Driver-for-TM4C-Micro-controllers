@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\AUTOSAR_Project.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\..\..\AUTOSAR-Full-Layered-Architecture-Project-main\p.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\..\..\..\NEW\tr.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
